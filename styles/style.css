@@ -1,0 +1,76 @@
+body {
+    background-image: url("../images/bgimage.png");
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.profile {
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.profile #icon {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.profile #name {
+    font-weight: bold;
+    font-size: 160%;
+    margin: 10px 0;
+}
+
+.profile #lore {
+    font-size: 110%;
+    margin: 5px 0;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.button a {
+    text-decoration: none;
+    margin: 10px 0;
+}
+
+.button button {
+    width: 400px;
+    padding: 20px;
+    font-size: 1em;
+    color: white;
+    background-color: #11a3d0;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.button button:hover {
+    background-color: #d45726;
+    background-image: url("../images/apple.png");
+    background-size:contain;
+}
+
+.button img {
+    width: 38px;
+}
