@@ -67,8 +67,7 @@ body {
 
 .button button:hover {
     background-color: #d45726;
-    background-image: url("../images/apple.png");
-    background-size:contain;
+    border-radius: 30px;
 }
 
 .button img {
