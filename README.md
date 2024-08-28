@@ -4,4 +4,5 @@
 https://ringoame196.github.io/link/
 
 ## [画像]
-![image](https://github.com/Ringoame196/link/assets/132573268/a3b144a2-cea1-489b-9fbc-bf06fbaad3b4)
+
+![スクリーンショット 2024-08-28 124125](https://github.com/user-attachments/assets/9ff85b73-031c-4576-b4c4-4d3196c5db4f)
